@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "e7e50031-83b2-43c4-bb66-d4ba91582969",
+		"name": "jFrog",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "3913811"
+	},
+	"item": [
+		{
+			"name": "get all data",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
